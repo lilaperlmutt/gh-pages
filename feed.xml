@@ -3,12 +3,33 @@
     <title>martinfehrensen</title>
     <link href="https://martinfehrensen.de/feed.xml" rel="self" />
     <link href="https://martinfehrensen.de" />
-    <updated>2025-03-12T18:47:37+01:00</updated>
+    <updated>2025-03-13T12:33:36+01:00</updated>
     <author>
         <name>mf</name>
     </author>
     <id>https://martinfehrensen.de</id>
 
+    <entry>
+        <title>Kottke</title>
+        <author>
+            <name>mf</name>
+        </author>
+        <link href="https://martinfehrensen.de/kottke.html"/>
+        <id>https://martinfehrensen.de/kottke.html</id>
+            <category term="websites"/>
+
+        <updated>2025-03-13T12:33:36+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Beste Seite ever: kottke.org
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Beste Seite ever: <a href="kottke.org">kottke.org</a></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>open web ftw</title>
         <author>
